@@ -1,9 +1,0 @@
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
-C:\Users\wilirambo\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
